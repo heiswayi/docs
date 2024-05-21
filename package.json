@@ -1,0 +1,22 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "serve": "mkdocs serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heiswayi/docs.git"
+  },
+  "author": "Heiswayi Nrird",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heiswayi/docs/issues"
+  },
+  "homepage": "https://github.com/heiswayi/docs#readme"
+}
